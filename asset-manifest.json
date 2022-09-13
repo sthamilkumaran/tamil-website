@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tamil-websit/static/css/main.073c9b0a.css",
-    "main.js": "/tamil-websit/static/js/main.f4a41e25.js",
-    "static/js/787.6c2fd50c.chunk.js": "/tamil-websit/static/js/787.6c2fd50c.chunk.js",
-    "static/media/logo.svg": "/tamil-websit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tamil-websit/index.html",
-    "main.073c9b0a.css.map": "/tamil-websit/static/css/main.073c9b0a.css.map",
-    "main.f4a41e25.js.map": "/tamil-websit/static/js/main.f4a41e25.js.map",
-    "787.6c2fd50c.chunk.js.map": "/tamil-websit/static/js/787.6c2fd50c.chunk.js.map"
+    "main.css": "/tamil-website/static/css/main.073c9b0a.css",
+    "main.js": "/tamil-website/static/js/main.509cf8f1.js",
+    "static/js/787.6c2fd50c.chunk.js": "/tamil-website/static/js/787.6c2fd50c.chunk.js",
+    "static/media/logo.svg": "/tamil-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tamil-website/index.html",
+    "main.073c9b0a.css.map": "/tamil-website/static/css/main.073c9b0a.css.map",
+    "main.509cf8f1.js.map": "/tamil-website/static/js/main.509cf8f1.js.map",
+    "787.6c2fd50c.chunk.js.map": "/tamil-website/static/js/787.6c2fd50c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f4a41e25.js"
+    "static/js/main.509cf8f1.js"
   ]
 }
